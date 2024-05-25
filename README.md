@@ -3,5 +3,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevkristaps&size_weight=0.15&hide_border=true&count_weight=0.5&layout=compact&theme=vision-friendly-dark"></br>
 </br>
 <img src="https://komarev.com/ghpvc/?username=thedevkristaps&style=for-the-badge&color=orange" alt=""/>
-
-<a href="https://www.buymeacoffee.com/codekristaps" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
